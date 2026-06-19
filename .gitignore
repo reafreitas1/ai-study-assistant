@@ -1,0 +1,19 @@
+# Java / Maven
+**/target/
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+.vscode/
+
+# Angular / Node
+**/node_modules/
+**/.angular/
+**/dist/
+.editorconfig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SEGURANÇA
+**/application.properties
